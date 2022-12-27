@@ -13,7 +13,7 @@ def load_image(name, colorkey=None):
 
 
 
-
+# ОЧЕНЬ ВАЖНО
 player = None
 all_sprites = pygame.sprite.Group()
 tiles_group = pygame.sprite.Group()
